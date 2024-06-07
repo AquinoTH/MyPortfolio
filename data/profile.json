@@ -41,10 +41,8 @@
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR (nativo)",
+    "Inglês (avançado)",
   ],
   "portfolio": [
     {
@@ -60,9 +58,10 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Ramp Agent / Swissport International - Dublin Airport",
+      "period": "Julho 2022 - Dezembro 2022",
+      "description": "Operação de equipamentos com direcionamento de bagagens e cargas;"
+      "description": "Fiscalização dos regulamentos de qualidade segurança."
     },
     {
       "name": "Software Engineering Lead / DIO",
